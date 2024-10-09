@@ -1,5 +1,5 @@
 <script>
-    let tarea = ""
+    let tarea = "hola"
     let lista_de_tareas = [
        
     ]
